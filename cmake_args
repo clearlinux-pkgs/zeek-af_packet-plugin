@@ -1,0 +1,9 @@
+-DBinPAC_ROOT_DIR=$(zeek-config --binpac_root)
+-DBROKER_ROOT_DIR=$(zeek-config --broker_root)
+-DCAF_ROOT_DIR=$(zeek-config --caf_root)
+-DBRO_CONFIG_PLUGIN_DIR=$(zeek-config --plugin_dir)
+-DBRO_CONFIG_PREFIX=$(zeek-config --prefix)
+-DBRO_CONFIG_INCLUDE_DIR=$(zeek-config --include_dir)
+-DBRO_CONFIG_CMAKE_DIR=$(zeek-config --cmake_dir)
+-DCMAKE_MODULE_PATH=$(zeek-config --cmake_dir)
+-DKERNELHEADERS_ROOT_DIR=/usr/lib/modules/*/build
