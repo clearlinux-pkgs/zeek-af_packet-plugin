@@ -4,7 +4,7 @@
 #
 Name     : zeek-af_packet-plugin
 Version  : 3.1.1
-Release  : 5
+Release  : 6
 URL      : https://github.com/J-Gras/zeek-af_packet-plugin/archive/3.1.1/zeek-af_packet-plugin-3.1.1.tar.gz
 Source0  : https://github.com/J-Gras/zeek-af_packet-plugin/archive/3.1.1/zeek-af_packet-plugin-3.1.1.tar.gz
 Summary  : No detailed summary available
